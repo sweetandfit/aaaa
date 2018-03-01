@@ -1,0 +1,620 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Gosia/Desktop/aaaa",
+		"/C/Users/Gosia/Desktop/mate-template/mate-template",
+		"/C/Users/Gosia/Desktop/SWEET & FIT",
+		"/C/Users/Gosia/Desktop/MeatKing-master/MeatKing-master",
+		"/C/Users/Gosia/Desktop/Mamma-s-Kitchen-master/Mamma-s-Kitchen-master",
+		"/C/Users/Gosia/Desktop/MOJA STRONA",
+		"/C/Users/Gosia/Desktop/home-master/Idea"
+	],
+	"last_version": 3143,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 720.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"do",
+						"doughnuts"
+					],
+					[
+						"prc",
+						"pricing"
+					],
+					[
+						"show",
+						"showbaletshine"
+					],
+					[
+						"sp",
+						"spentertainment"
+					],
+					[
+						"Mydlni",
+						"Mydlnikach"
+					],
+					[
+						"lak",
+						"laktozy"
+					],
+					[
+						"nietole",
+						"nietolerancja"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Gosia/Desktop/mate-template/mate-template/meet-the-founder.html",
+				"/C/Users/Gosia/Desktop/mate-template/mate-template/index - Copy.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/css/main.css",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/index.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/404page.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/.htaccess",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/css/bootstrap-theme.min.css",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js",
+				"/C/Users/Gosia/Desktop/MeatKing-master/MeatKing-master/css/main.css",
+				"/C/Users/Gosia/Desktop/MeatKing-master/MeatKing-master/index.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/photomodel.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/fotomodelingpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/pl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/zumba.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/index.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ideafit.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/spentertainmentpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/spentertainment.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/showbaletshinepl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/showbaletshine.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/mindapl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ideafitpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/minda.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ensemblepl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ensemble.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/fotomodeling.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/404page.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/gallery-grid.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/bootstrap.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/modelingpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/main.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/404.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/190-zumba-w-mydlnikach.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/189-sportowe-halloween.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/index.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/131-jedz-zdrowo-batoniki-energetyczne.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/132-idea-fit-trening-wykroki.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/133-jedz-zdrowo-laktoza.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/134-idea-fit-trening-pompka.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/135-zumba-idea-fit.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/136-jedz-zdrowo-granola.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/137-idea-fit-trening-przysiady.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/140-zostan-fit-ewelina.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/188-batoniki-zbozowe.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/139-rozdajemy-energie.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/146-batoniki-bounty.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/148-truskawkowa-chmurka.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/zapisy-na-zajecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/zajecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/szablon-zdjecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/szablon-bez-zdjec.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/strona-w-budowie.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/stolat.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/regulamin.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/instruktorzy.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/aktualnosci9.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/404page.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/187-prace-techniczne.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/149-7-urodziny-idea-fit.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/180-om-senior-day.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/186-zasmakuj-z-ur.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/138-idea-fit-dieta.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/141-fitness-dla-mam.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/144-nowa-instruktorka-sylwia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/142-seniorzy-do-boju.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/143-porada-musli.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/147-zasmakuj-z-ur.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/1-piknik-ibd-day.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/145-strefa-rodzica.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/.htaccess",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/main.css",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/bootstrap.min.css",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/gallery-grid.css"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"popup",
+					"ffc8e0",
+					"33b391",
+					"61D2B4",
+					"header",
+					"logo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"do",
+						"doughnuts"
+					],
+					[
+						"prc",
+						"pricing"
+					],
+					[
+						"show",
+						"showbaletshine"
+					],
+					[
+						"sp",
+						"spentertainment"
+					],
+					[
+						"Mydlni",
+						"Mydlnikach"
+					],
+					[
+						"lak",
+						"laktozy"
+					],
+					[
+						"nietole",
+						"nietolerancja"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Gosia/Desktop/aaaa/index.html",
+					"settings":
+					{
+						"buffer_size": 34143,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gosia/Desktop/aaaa/001-meet-the-founder.html",
+					"settings":
+					{
+						"buffer_size": 12534,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Gosia/Desktop/aaaa"
+			],
+			"file_history":
+			[
+				"/C/Users/Gosia/Desktop/aaaa/meet-the-founder.html",
+				"/C/Users/Gosia/Desktop/mate-template/mate-template/meet-the-founder.html",
+				"/C/Users/Gosia/Desktop/mate-template/mate-template/index - Copy.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/css/main.css",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/index.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/404page.html",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/.htaccess",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/css/bootstrap-theme.min.css",
+				"/C/Users/Gosia/Desktop/SWEET & FIT/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js",
+				"/C/Users/Gosia/Desktop/MeatKing-master/MeatKing-master/css/main.css",
+				"/C/Users/Gosia/Desktop/MeatKing-master/MeatKing-master/index.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/photomodel.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/fotomodelingpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/pl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/zumba.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/index.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ideafit.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/spentertainmentpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/spentertainment.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/showbaletshinepl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/showbaletshine.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/mindapl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ideafitpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/minda.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ensemblepl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/ensemble.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/fotomodeling.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/404page.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/gallery-grid.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/bootstrap.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/modelingpl.html",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/assets/css/main.css",
+				"/C/Users/Gosia/Desktop/MOJA STRONA/404.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/190-zumba-w-mydlnikach.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/189-sportowe-halloween.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/index.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/131-jedz-zdrowo-batoniki-energetyczne.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/132-idea-fit-trening-wykroki.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/133-jedz-zdrowo-laktoza.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/134-idea-fit-trening-pompka.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/135-zumba-idea-fit.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/136-jedz-zdrowo-granola.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/137-idea-fit-trening-przysiady.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/140-zostan-fit-ewelina.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/188-batoniki-zbozowe.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/139-rozdajemy-energie.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/146-batoniki-bounty.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/148-truskawkowa-chmurka.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/zapisy-na-zajecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/zajecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/szablon-zdjecia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/szablon-bez-zdjec.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/strona-w-budowie.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/stolat.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/regulamin.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/instruktorzy.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/aktualnosci9.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/404page.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/187-prace-techniczne.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/149-7-urodziny-idea-fit.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/180-om-senior-day.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/186-zasmakuj-z-ur.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/138-idea-fit-dieta.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/141-fitness-dla-mam.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/144-nowa-instruktorka-sylwia.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/142-seniorzy-do-boju.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/143-porada-musli.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/147-zasmakuj-z-ur.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/1-piknik-ibd-day.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/145-strefa-rodzica.html",
+				"/C/Users/Gosia/Desktop/home-master/Idea/.htaccess",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/main.css",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/bootstrap.min.css",
+				"/C/Users/Gosia/Desktop/home-master/Idea/css/gallery-grid.css"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Gosia\\Desktop\\aaaa"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Gosia/Desktop/aaaa/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										28256,
+										28256
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 15371.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Gosia/Desktop/aaaa/001-meet-the-founder.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12534,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6921,
+										6921
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3818.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,844,38,38,1020",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
