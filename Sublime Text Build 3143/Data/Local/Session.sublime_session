@@ -258,6 +258,10 @@
 				"selected_items":
 				[
 					[
+						"form-",
+						"form-group"
+					],
+					[
 						"do",
 						"doughnuts"
 					],
@@ -293,7 +297,7 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/index.html",
 					"settings":
 					{
-						"buffer_size": 34143,
+						"buffer_size": 35520,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -302,9 +306,27 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/001-meet-the-founder.html",
 					"settings":
 					{
-						"buffer_size": 12534,
+						"buffer_size": 13955,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gosia/Desktop/aaaa/css/bootstrap.min.css",
+					"settings":
+					{
+						"buffer_size": 125103,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Gosia/Desktop/aaaa/css/main.css",
+					"settings":
+					{
+						"buffer_size": 23369,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -340,10 +362,15 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/Gosia/Desktop/aaaa"
+				"/C/Users/Gosia/Desktop/aaaa",
+				"/C/Users/Gosia/Desktop/aaaa/css",
+				"/C/Users/Gosia/Desktop/aaaa/php",
+				"/C/Users/Gosia/Desktop/aaaa/scss"
 			],
 			"file_history":
 			[
+				"/C/Users/Gosia/Desktop/aaaa/scss/main.scss",
+				"/C/Users/Gosia/Desktop/aaaa/php/form-process.php",
 				"/C/Users/Gosia/Desktop/aaaa/meet-the-founder.html",
 				"/C/Users/Gosia/Desktop/mate-template/mate-template/meet-the-founder.html",
 				"/C/Users/Gosia/Desktop/mate-template/mate-template/index - Copy.html",
@@ -421,7 +448,7 @@
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 60.0
 			},
 			"find_in_files":
 			{
@@ -435,6 +462,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"hero",
+					"subti",
+					"value",
+					"type=select",
+					"type=text",
+					"input",
+					"group"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -467,15 +501,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 34143,
+								"buffer_size": 35520,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										28256,
-										28256
+										32020,
+										32020
 									]
 								],
 								"settings":
@@ -485,10 +519,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 15371.0,
+								"translation.y": 18923.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -497,15 +531,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12534,
+								"buffer_size": 13955,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6921,
-										6921
+										1206,
+										1206
 									]
 								],
 								"settings":
@@ -515,10 +549,68 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3818.0,
+								"translation.y": 368.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Gosia/Desktop/aaaa/css/bootstrap.min.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 125103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4134,
+										4141
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 1743.0,
+								"translation.y": 1618.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Gosia/Desktop/aaaa/css/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7586,
+										7586
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10048.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
