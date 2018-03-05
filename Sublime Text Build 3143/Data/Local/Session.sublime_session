@@ -297,7 +297,7 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/index.html",
 					"settings":
 					{
-						"buffer_size": 35520,
+						"buffer_size": 36516,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -306,7 +306,7 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/001-meet-the-founder.html",
 					"settings":
 					{
-						"buffer_size": 13955,
+						"buffer_size": 19202,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -324,7 +324,7 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/css/main.css",
 					"settings":
 					{
-						"buffer_size": 23369,
+						"buffer_size": 23521,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -448,7 +448,7 @@
 			],
 			"find":
 			{
-				"height": 60.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -462,6 +462,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"about",
+					"5",
+					"navbar-brand",
+					"expand",
+					"5px",
+					"header",
 					"hero",
 					"subti",
 					"value",
@@ -492,7 +498,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -501,15 +507,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 35520,
+								"buffer_size": 36516,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32020,
-										32020
+										24966,
+										24966
 									]
 								],
 								"settings":
@@ -519,10 +525,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 18923.0,
+								"translation.y": 13734.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -531,15 +537,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 13955,
+								"buffer_size": 19202,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1206,
-										1206
+										5462,
+										5462
 									]
 								],
 								"settings":
@@ -549,10 +555,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 368.0,
+								"translation.y": 1991.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -589,15 +595,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 23369,
+								"buffer_size": 23521,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7586,
-										7586
+										2336,
+										2336
 									]
 								],
 								"settings":
@@ -607,10 +613,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 10048.0,
+								"translation.y": 2507.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
