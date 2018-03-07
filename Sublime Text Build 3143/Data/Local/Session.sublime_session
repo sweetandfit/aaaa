@@ -258,6 +258,10 @@
 				"selected_items":
 				[
 					[
+						"marg",
+						"margin-left"
+					],
+					[
 						"form-",
 						"form-group"
 					],
@@ -297,7 +301,16 @@
 					"file": "/C/Users/Gosia/Desktop/aaaa/index.html",
 					"settings":
 					{
-						"buffer_size": 36516,
+						"buffer_size": 37494,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gosia/Desktop/aaaa/applepie.html",
+					"settings":
+					{
+						"buffer_size": 38393,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -312,19 +325,19 @@
 					}
 				},
 				{
-					"file": "/C/Users/Gosia/Desktop/aaaa/css/bootstrap.min.css",
+					"file": "/C/Users/Gosia/Desktop/aaaa/pralinuts.html",
 					"settings":
 					{
-						"buffer_size": 125103,
+						"buffer_size": 23101,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
 					}
 				},
 				{
 					"file": "/C/Users/Gosia/Desktop/aaaa/css/main.css",
 					"settings":
 					{
-						"buffer_size": 23521,
+						"buffer_size": 23623,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -369,6 +382,9 @@
 			],
 			"file_history":
 			[
+				"/C/Users/Gosia/Desktop/aaaa/css/main.css",
+				"/C/Users/Gosia/Desktop/aaaa/css/bootstrap.min.css",
+				"/C/Users/Gosia/Desktop/aaaa/applepie - Copy.html",
 				"/C/Users/Gosia/Desktop/aaaa/scss/main.scss",
 				"/C/Users/Gosia/Desktop/aaaa/php/form-process.php",
 				"/C/Users/Gosia/Desktop/aaaa/meet-the-founder.html",
@@ -448,7 +464,7 @@
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 60.0
 			},
 			"find_in_files":
 			{
@@ -462,6 +478,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"h2",
+					";\n",
+					"  ",
 					"about",
 					"5",
 					"navbar-brand",
@@ -498,7 +517,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -507,15 +526,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 36516,
+								"buffer_size": 37494,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										24966,
-										24966
+										17338,
+										14902
 									]
 								],
 								"settings":
@@ -525,14 +544,44 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 13734.0,
+								"translation.y": 138.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/C/Users/Gosia/Desktop/aaaa/applepie.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6094,
+										6106
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 565.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/C/Users/Gosia/Desktop/aaaa/001-meet-the-founder.html",
 							"semi_transient": false,
 							"settings":
@@ -544,8 +593,8 @@
 								"selection":
 								[
 									[
-										5462,
-										5462
+										6326,
+										6300
 									]
 								],
 								"settings":
@@ -555,55 +604,57 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1991.0,
+								"translation.y": 1058.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Gosia/Desktop/aaaa/pralinuts.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23101,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21255,
+										21255
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 13343.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/C/Users/Gosia/Desktop/aaaa/css/bootstrap.min.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 125103,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4134,
-										4141
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 1743.0,
-								"translation.y": 1618.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
+							"buffer": 4,
 							"file": "/C/Users/Gosia/Desktop/aaaa/css/main.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 23521,
+								"buffer_size": 23623,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2336,
-										2336
+										17388,
+										17379
 									]
 								],
 								"settings":
@@ -613,10 +664,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2507.0,
+								"translation.y": 21235.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]

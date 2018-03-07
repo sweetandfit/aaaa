@@ -903,6 +903,7 @@ button:focus {
 .pricing-table {
   padding: 0px 0px 40px 0px;
   margin: 0 auto;
+
   margin-bottom: 5px;
   border: transparent;
   text-align: center;
@@ -933,6 +934,12 @@ button:focus {
   font-weight: 400;
   color: #ff92c1;
   margin-bottom: 20px;
+}
+
+.pricing-table .pricing-details p {
+  margin-left: 35px;
+  margin-right: 35px;
+  font-size: 15px;
 }
 
 .pricing-table .pricing-details ul {
